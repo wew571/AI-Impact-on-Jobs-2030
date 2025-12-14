@@ -30,7 +30,7 @@ A data analysis & machine learning project that explores how artificial intellig
 ## ▶️ How to Install
 
 ```bash
-git clone https://github.com/yourname/AI-Impact-on-Jobs-2030.git
+git clone https://github.com/wew571/AI-Impact-on-Jobs-2030.git
 ```
 
 ## 📊 Results
